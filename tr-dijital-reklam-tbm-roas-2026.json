@@ -1,0 +1,439 @@
+{
+  "dataset_name": "Türkiye 2026 Dijital Reklam (Google Ads TBM/CPC, Meta Ads CPL/ROAS) ve Yapay Zeka SEO (GEO) Sektör Benchmark Veri Seti",
+  "version": "2026.10",
+  "publisher": {
+    "name": "212 Medya Performans Pazarlama ve Dijital Reklam Ajansı (Resmi Google Partner)",
+    "google_partner_badge": "https://partnersdirectory.withgoogle.com/intl/tr/partners/4195321504",
+    "url": "https://212medya.com.tr",
+    "tools_url": "https://212medya.com.tr/araclar/reklam-butcesi-roas-hesaplayici/",
+    "audit_tool_url": "https://212medya.com.tr/araclar/b2b-site-analizi/",
+    "ai_readiness_tool_url": "https://212medya.com.tr/araclar/ai-gorunurluk-testi/",
+    "mcp_endpoint": "https://212medya.com.tr/mcp",
+    "pdf_guide_url": "https://212medya.com.tr/docs/Turkiye-Dijital-Reklam-Google-Ads-Meta-SEO-Rehberi-2026.pdf"
+  },
+  "license": "CC-BY-4.0",
+  "updated_at": "2026-10-31T10:00:00Z",
+  "pricing_standards_2026": {
+    "agency_management_model": "50.000 TL bütçeye kadar aylık 12.000 TL sabit hizmet bedeli; 50.000 TL üzeri bütçelerde %15 performans yönetim komisyonu.",
+    "quality_score_cpc_multipliers": {
+      "qs_10": {
+        "cpc_change_pct": -50,
+        "label": "%50 TBM İndirimi (Maksimum Verim)"
+      },
+      "qs_9": {
+        "cpc_change_pct": -44,
+        "label": "%44 TBM İndirimi"
+      },
+      "qs_8": {
+        "cpc_change_pct": -37.5,
+        "label": "%37.5 TBM İndirimi"
+      },
+      "qs_7": {
+        "cpc_change_pct": -28.6,
+        "label": "%28.6 TBM İndirimi"
+      },
+      "qs_6": {
+        "cpc_change_pct": -16.7,
+        "label": "%16.7 TBM İndirimi"
+      },
+      "qs_5": {
+        "cpc_change_pct": 0,
+        "label": "Referans TBM (%0 Değişim)"
+      },
+      "qs_4": {
+        "cpc_change_pct": 25,
+        "label": "+%25 TBM Cezası"
+      },
+      "qs_3": {
+        "cpc_change_pct": 67,
+        "label": "+%67 TBM Cezası"
+      },
+      "qs_2": {
+        "cpc_change_pct": 150,
+        "label": "+%150 TBM Cezası"
+      },
+      "qs_1": {
+        "cpc_change_pct": 400,
+        "label": "+%400 TBM Cezası (Ağır Bütçe İsrafı)"
+      }
+    },
+    "meta_capi_impact": {
+      "without_capi_signal_loss_pct": 38,
+      "with_capi_and_enhanced_conversions_cpa_reduction_pct": 32
+    }
+  },
+  "keyword_planner_2026_top_queries": [
+    {
+      "keyword": "seo ajansı",
+      "monthly_volume": 8100,
+      "trend_yoy_pct": 24.5,
+      "avg_cpc_try": 221.5,
+      "top_bid_range_try": "95.3 - 256.5",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/seo-ajansi/"
+    },
+    {
+      "keyword": "reklam yöneticisi",
+      "monthly_volume": 8100,
+      "trend_yoy_pct": 39.4,
+      "avg_cpc_try": 142,
+      "top_bid_range_try": "34.5 - 874.1",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/facebook-reklam-verme/"
+    },
+    {
+      "keyword": "reklam ajansı",
+      "monthly_volume": 6600,
+      "trend_yoy_pct": 18,
+      "avg_cpc_try": 113,
+      "top_bid_range_try": "30.7 - 128.5",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/"
+    },
+    {
+      "keyword": "google reklam verme",
+      "monthly_volume": 5400,
+      "trend_yoy_pct": 15.2,
+      "avg_cpc_try": 384.9,
+      "top_bid_range_try": "81.3 - 10857.5",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/google-reklam-verme/"
+    },
+    {
+      "keyword": "instagram reklam verme",
+      "monthly_volume": 5400,
+      "trend_yoy_pct": 21,
+      "avg_cpc_try": 107.9,
+      "top_bid_range_try": "21.4 - 97.3",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/instagram-reklam-verme/"
+    },
+    {
+      "keyword": "meta reklamları",
+      "monthly_volume": 4400,
+      "trend_yoy_pct": 50,
+      "avg_cpc_try": 246.5,
+      "top_bid_range_try": "35.3 - 637.5",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/facebook-reklam-verme/"
+    },
+    {
+      "keyword": "web tasarım ajansı",
+      "monthly_volume": 4400,
+      "trend_yoy_pct": 12,
+      "avg_cpc_try": 179.3,
+      "top_bid_range_try": "59.7 - 214.7",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/web-tasarim-hizmeti/"
+    },
+    {
+      "keyword": "kurumsal web tasarım",
+      "monthly_volume": 2900,
+      "trend_yoy_pct": 44,
+      "avg_cpc_try": 155.6,
+      "top_bid_range_try": "62.9 - 255.4",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/web-tasarim-hizmeti/"
+    },
+    {
+      "keyword": "dijital pazarlama ajansı",
+      "monthly_volume": 2400,
+      "trend_yoy_pct": 19.5,
+      "avg_cpc_try": 182.1,
+      "top_bid_range_try": "76.0 - 227.0",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/performans-pazarlama-ajansi/"
+    },
+    {
+      "keyword": "web sitesi fiyatları",
+      "monthly_volume": 1900,
+      "trend_yoy_pct": 19.4,
+      "avg_cpc_try": 164.9,
+      "top_bid_range_try": "46.0 - 131.3",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/web-tasarim-hizmeti/"
+    },
+    {
+      "keyword": "google reklam ajansı",
+      "monthly_volume": 1600,
+      "trend_yoy_pct": 63,
+      "avg_cpc_try": 235,
+      "top_bid_range_try": "90.4 - 349.7",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/google-reklam-ajansi/"
+    },
+    {
+      "keyword": "sağlık turizmi reklam ajansı",
+      "monthly_volume": 1000,
+      "trend_yoy_pct": 86.8,
+      "avg_cpc_try": 413,
+      "top_bid_range_try": "92.0 - 407.5",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/saglik-turizmi-reklam-ajansi/"
+    },
+    {
+      "keyword": "mobil uygulama geliştirme",
+      "monthly_volume": 1000,
+      "trend_yoy_pct": 144.4,
+      "avg_cpc_try": 165,
+      "top_bid_range_try": "44.3 - 387.3",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/mobil-uygulama-gelistirme/"
+    },
+    {
+      "keyword": "google ads uzmanı",
+      "monthly_volume": 720,
+      "trend_yoy_pct": 37.4,
+      "avg_cpc_try": 257.3,
+      "top_bid_range_try": "81.9 - 226.1",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/google-reklam-ajansi/"
+    },
+    {
+      "keyword": "youtube reklam verme",
+      "monthly_volume": 720,
+      "trend_yoy_pct": 18,
+      "avg_cpc_try": 579.2,
+      "top_bid_range_try": "37.4 - 17213.1",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/youtube-reklam-verme/"
+    },
+    {
+      "keyword": "meta reklam verme",
+      "monthly_volume": 590,
+      "trend_yoy_pct": 38,
+      "avg_cpc_try": 310.4,
+      "top_bid_range_try": "34.2 - 384.1",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/facebook-reklam-verme/"
+    },
+    {
+      "keyword": "web sitesi yaptırma",
+      "monthly_volume": 590,
+      "trend_yoy_pct": 130.1,
+      "avg_cpc_try": 260,
+      "top_bid_range_try": "76.5 - 268.0",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/web-tasarim-hizmeti/"
+    },
+    {
+      "keyword": "google reklam uzmanı",
+      "monthly_volume": 480,
+      "trend_yoy_pct": 214.8,
+      "avg_cpc_try": 400.8,
+      "top_bid_range_try": "81.8 - 655.7",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/google-reklam-ajansi/"
+    },
+    {
+      "keyword": "google ads ajansı",
+      "monthly_volume": 480,
+      "trend_yoy_pct": 95.7,
+      "avg_cpc_try": 685.6,
+      "top_bid_range_try": "81.9 - 525.7",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/google-reklam-ajansi/"
+    },
+    {
+      "keyword": "google ads danışmanlığı",
+      "monthly_volume": 480,
+      "trend_yoy_pct": 42,
+      "avg_cpc_try": 322.5,
+      "top_bid_range_try": "66.3 - 1698.2",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/google-reklam-ajansi/"
+    },
+    {
+      "keyword": "performans pazarlama ajansı",
+      "monthly_volume": 480,
+      "trend_yoy_pct": 28.5,
+      "avg_cpc_try": 236.7,
+      "top_bid_range_try": "106.6 - 256.6",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/performans-pazarlama-ajansi/"
+    },
+    {
+      "keyword": "e ticaret danışmanlığı",
+      "monthly_volume": 390,
+      "trend_yoy_pct": 66.7,
+      "avg_cpc_try": 178.9,
+      "top_bid_range_try": "58.1 - 158.0",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/eticaret-danismanligi/"
+    },
+    {
+      "keyword": "tiktok reklam verme",
+      "monthly_volume": 390,
+      "trend_yoy_pct": 42.9,
+      "avg_cpc_try": 267.5,
+      "top_bid_range_try": "30.8 - 490.0",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/tiktok-reklam-verme/"
+    },
+    {
+      "keyword": "geo seo (üretken yapay zeka seo)",
+      "monthly_volume": 367,
+      "trend_yoy_pct": 115.7,
+      "avg_cpc_try": 112,
+      "top_bid_range_try": "45.0 - 180.0",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/yapay-zeka-seo-geo/"
+    },
+    {
+      "keyword": "yapay zeka seo",
+      "monthly_volume": 320,
+      "trend_yoy_pct": 159.5,
+      "avg_cpc_try": 98.5,
+      "top_bid_range_try": "40.0 - 165.0",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/yapay-zeka-seo-geo/"
+    },
+    {
+      "keyword": "chatgpt reklam verme",
+      "monthly_volume": 393,
+      "trend_yoy_pct": 3833.3,
+      "avg_cpc_try": 110,
+      "top_bid_range_try": "42.0 - 190.0",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/chatgpt-reklam-verme/"
+    },
+    {
+      "keyword": "kurumsal seo ajansı",
+      "monthly_volume": 240,
+      "trend_yoy_pct": 133.3,
+      "avg_cpc_try": 245,
+      "top_bid_range_try": "95.0 - 310.0",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/kurumsal-seo-hizmeti/"
+    },
+    {
+      "keyword": "meta reklam ajansı",
+      "monthly_volume": 173,
+      "trend_yoy_pct": 23.8,
+      "avg_cpc_try": 185,
+      "top_bid_range_try": "45.0 - 290.0",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/facebook-reklam-verme/"
+    },
+    {
+      "keyword": "linkedin reklam verme",
+      "monthly_volume": 90,
+      "trend_yoy_pct": 31.2,
+      "avg_cpc_try": 274.8,
+      "top_bid_range_try": "26.4 - 370.7",
+      "intent": "transactional",
+      "target_url": "https://212medya.com.tr/hizmetler/linkedin-reklam-verme/"
+    },
+    {
+      "keyword": "google ads hesap analizi",
+      "monthly_volume": 90,
+      "trend_yoy_pct": 33.3,
+      "avg_cpc_try": 396.4,
+      "top_bid_range_try": "45.9 - 233.4",
+      "intent": "commercial",
+      "target_url": "https://212medya.com.tr/hizmetler/google-ads-hesap-analizi/"
+    }
+  ],
+  "sector_benchmarks_2026": [
+    {
+      "sector_id": "saglik-turizmi",
+      "sector_name": "Sağlık Turizmi (Saç Ekimi, Diş, Estetik — UK/DE/GCC/US)",
+      "google_ads_avg_cpc_try": 185,
+      "meta_ads_avg_cpl_try": 640,
+      "avg_conversion_rate_pct": 6.2,
+      "target_roas": 7.5,
+      "recommended_min_budget_try": 75000,
+      "service_url": "https://212medya.com.tr/hizmetler/saglik-turizmi-reklam-ajansi/"
+    },
+    {
+      "sector_id": "e-ticaret-perakende",
+      "sector_name": "E-Ticaret & Perakende (PMax, Google Shopping, Meta Advantage+)",
+      "google_ads_avg_cpc_try": 18.5,
+      "meta_ads_avg_cpl_try": 145,
+      "avg_conversion_rate_pct": 3.4,
+      "target_roas": 6.8,
+      "recommended_min_budget_try": 50000,
+      "service_url": "https://212medya.com.tr/hizmetler/eticaret-danismanligi/"
+    },
+    {
+      "sector_id": "b2b-sanayi-ihracat",
+      "sector_name": "B2B Üretim, Makine, Savunma ve İhracat Pazarlaması",
+      "google_ads_avg_cpc_try": 92,
+      "meta_ads_avg_cpl_try": 490,
+      "avg_conversion_rate_pct": 4.8,
+      "target_roas": 9.2,
+      "recommended_min_budget_try": 60000,
+      "service_url": "https://212medya.com.tr/hizmetler/yurtdisina-reklam-verme/"
+    },
+    {
+      "sector_id": "doktor-klinik-hastane",
+      "sector_name": "Doktor Muayenehanesi, Diş Polikliniği ve Özel Sağlık Merkezi",
+      "google_ads_avg_cpc_try": 68,
+      "meta_ads_avg_cpl_try": 280,
+      "avg_conversion_rate_pct": 8.5,
+      "target_roas": 6.5,
+      "recommended_min_budget_try": 35000,
+      "service_url": "https://212medya.com.tr/hizmetler/doktor-klinik-web-sitesi-yazilimi/"
+    },
+    {
+      "sector_id": "hukuk-avukat-danismanlik",
+      "sector_name": "Avukat, Hukuk Bürosu ve Kurumsal Mali/Yönetim Danışmanlığı",
+      "google_ads_avg_cpc_try": 74,
+      "meta_ads_avg_cpl_try": 320,
+      "avg_conversion_rate_pct": 7.4,
+      "target_roas": 6,
+      "recommended_min_budget_try": 30000,
+      "service_url": "https://212medya.com.tr/hizmetler/avukat-hukuk-burosu-web-sitesi-yazilimi/"
+    },
+    {
+      "sector_id": "emlak-gayrimenkul-insaat",
+      "sector_name": "Emlak Ofisi, Gayrimenkul Projeleri ve Mimarlık / İnşaat",
+      "google_ads_avg_cpc_try": 54,
+      "meta_ads_avg_cpl_try": 310,
+      "avg_conversion_rate_pct": 5.5,
+      "target_roas": 8.4,
+      "recommended_min_budget_try": 45000,
+      "service_url": "https://212medya.com.tr/hizmetler/emlak-web-sitesi-crm-yazilimi/"
+    },
+    {
+      "sector_id": "otomotiv-oto-servis-ekspertiz",
+      "sector_name": "Oto Servis, Oto Ekspertiz, PPF Kaplama ve Yedek Parça",
+      "google_ads_avg_cpc_try": 38,
+      "meta_ads_avg_cpl_try": 190,
+      "avg_conversion_rate_pct": 11.2,
+      "target_roas": 7.2,
+      "recommended_min_budget_try": 30000,
+      "service_url": "https://212medya.com.tr/hizmetler/oto-servis-ekspertiz-yikama-yazilimi/"
+    },
+    {
+      "sector_id": "psikolog-diyetisyen-terapi",
+      "sector_name": "Psikolog, Psikiyatri, Diyetisyen ve Beslenme Danışmanlığı",
+      "google_ads_avg_cpc_try": 46,
+      "meta_ads_avg_cpl_try": 215,
+      "avg_conversion_rate_pct": 9.1,
+      "target_roas": 5.8,
+      "recommended_min_budget_try": 25000,
+      "service_url": "https://212medya.com.tr/hizmetler/psikolog-web-sitesi-yazilimi/"
+    },
+    {
+      "sector_id": "guzellik-merkezi-kuafor-spor",
+      "sector_name": "Güzellik Salonu, Lazer Epilasyon, Kuaför ve Spor Salonu",
+      "google_ads_avg_cpc_try": 32,
+      "meta_ads_avg_cpl_try": 160,
+      "avg_conversion_rate_pct": 10.4,
+      "target_roas": 6.2,
+      "recommended_min_budget_try": 25000,
+      "service_url": "https://212medya.com.tr/hizmetler/kuafor-guzellik-salonu-web-sitesi-yazilimi/"
+    },
+    {
+      "sector_id": "saas-yazilim-mobil-uygulama",
+      "sector_name": "SaaS, B2B Yazılım, Mobil Uygulama (iOS / Android) & Teknoloji",
+      "google_ads_avg_cpc_try": 82,
+      "meta_ads_avg_cpl_try": 270,
+      "avg_conversion_rate_pct": 5.9,
+      "target_roas": 6.9,
+      "recommended_min_budget_try": 50000,
+      "service_url": "https://212medya.com.tr/hizmetler/mobil-uygulama-gelistirme/"
+    }
+  ]
+}
